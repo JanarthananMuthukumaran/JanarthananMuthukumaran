@@ -159,8 +159,6 @@ fun_fact: "I'd rather solder a PCB than scroll a feed 🔧"
 
 </div>
 
-> 💡 **Note:** Pinned repo cards above use placeholder repo names — replace `repo=` values with your actual GitHub repository names so the cards populate correctly. You can also set your real pinned repos directly from your [GitHub profile settings](https://github.com/JanarthananMuthukumaran?tab=repositories).
-
 <details>
 <summary><b>🔥 IoT-Based Fire Fighter Robot</b> — STM32 (Blue Pill), ESP32, HAL, Cloud</summary>
 <br/>
